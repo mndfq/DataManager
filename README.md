@@ -1,6 +1,6 @@
 How to use:
 
-    DataStore store;
+    DataManager store;
     
     // Load Data
     store.load("file.data");
